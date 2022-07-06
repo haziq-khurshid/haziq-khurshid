@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DevOps tools.
 - 🤔 I’m interested in contributing towards open source.
 - 📫 Mail: haziq.khurshid@gmail.com
-- 😄 [LinkedIn](https://www.linkedin.com/in/haziq-khurshid-209b6a189)
+- 😄 LinkedIn: [Haziq Khurshid](https://www.linkedin.com/in/haziq-khurshid-209b6a189)
 - ⚡ Fun fact: Loves playing Football, Swimming & Binge-watching TV shows.
 
 
