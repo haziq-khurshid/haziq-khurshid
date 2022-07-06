@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working as a Cloud Engineer.
+- 🌱 I’m currently learning DevOps tools.
+- 🤔 I’m interested in contributing towards open source.
+- 📫 Mail: haziq.khurshid@gmail.com
+- 😄 [LinkedIn](https://www.linkedin.com/in/haziq-khurshid-209b6a189)
+- ⚡ Fun fact: Loves playing Football, Swimming & Binge-watching TV shows.
+
 
 <!--
 **haziq-khurshid/haziq-khurshid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
