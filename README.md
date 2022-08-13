@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=haziq-khurshid&show_icons=true&theme=onedark"/>
 
 <img src= "/assets/banner.png"/>
+[![MasterHead]("/assets/banner.png")](https://github.com/haziq-khurshid)
