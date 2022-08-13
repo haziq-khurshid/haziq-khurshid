@@ -23,6 +23,9 @@
 <img align="center" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="" height="50" width="50"/>
 </p>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!---
 <img src="https://github-readme-stats.vercel.app/api?username=haziq-khurshid&show_icons=true&theme=onedark"/>
 -->
