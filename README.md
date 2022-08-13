@@ -23,6 +23,8 @@
 <img align="center" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="" height="50" width="50"/>
 </p>
 ### Certifications
+
+
 <!--START_SECTION:badges-->
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/c735af24-96b5-4b34-a14a-08c5d2cd47e1)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/100x100/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/499a2fc2-3f10-4cef-9ff8-c525abeb6e9c)
