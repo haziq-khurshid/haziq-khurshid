@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=haziq-khurshid&show_icons=true&theme=onedark"/>
-
-<img src= "/assets/banner.png"/>
-[![MasterHead](/assets/banner.png)](https://github.com/haziq-khurshid)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+</p>
