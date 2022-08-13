@@ -2,8 +2,6 @@
 - 🔭 I’m currently working as a Cloud Engineer.
 - 🌱 I’m currently learning DevOps tools.
 - 🤔 I’m interested in contributing towards open source.
-- 📫 Mail: haziq.khurshid@gmail.com
-- 😄 LinkedIn: [Haziq Khurshid](https://www.linkedin.com/in/haziq-khurshid-209b6a189)
 - ⚡ Fun fact: Loves playing Football, Swimming & Binge-watching TV shows.
 
 
@@ -22,11 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=haziq-khurshid&show_icons=true&theme=onedark"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:haziq.khurshid@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=haziq-khurshid&show_icons=true&theme=onedark"/>
+
