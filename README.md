@@ -23,5 +23,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="" height="60" width="60"/>
 </p>
 
-
+<!---
 <img src="https://github-readme-stats.vercel.app/api?username=haziq-khurshid&show_icons=true&theme=onedark"/>
+-->
