@@ -4,8 +4,6 @@
 - 🤔 I’m interested in contributing towards open source.
 - ⚡ Fun fact: Loves playing Football, Swimming & Binge-watching TV shows.
 
-![](https://komarev.com/ghpvc/?username=haziq-khurshid)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:haziq.khurshid@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
