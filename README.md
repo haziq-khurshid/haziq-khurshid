@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a Cloud Engineer.
-- 🌱 I’m currently learning DevOps tools.
+- 🌱 I’m learning DevOps tools to build expertise in DevOps.
 - 🤔 I’m interested in contributing towards open source.
 - ⚡ Fun fact: Loves playing Football, Swimming & Binge-watching TV shows.
 
