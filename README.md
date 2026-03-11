@@ -20,19 +20,6 @@ integrations, medallion data modelling, and embedding AI into data workflows.
 | IaC & DevOps | Terraform, CloudFormation (SAM), CircleCI, Docker |
 | BI & Viz | Tableau, Power BI, Amazon QuickSight |
 
----
-
-## What I Build
-
-- **Serverless data platforms** — 21+ AWS Lambda functions forming full internal
-  data operations: financial calculations, anomaly detection, commission engines,
-  stakeholder reporting
-- **Medallion architectures** — Bronze/Silver/Gold pipelines on Databricks + Delta
-  Lake, dbt models, data quality test suites
-- **Real-time integrations** — CRM ↔ operational system sync via webhooks +
-  15-minute batch reconciliation; event-driven Lambda microservices
-- **AI-augmented pipelines** — GPT-4.1-mini sales forecasting in Databricks;
-  Claude Haiku executive summary generation in reporting portals
 
 ---
 
