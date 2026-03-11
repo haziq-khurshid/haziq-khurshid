@@ -4,7 +4,7 @@ Senior Data Engineer with 5+ years building production data systems across AWS,
 Databricks, and Snowflake. I specialise in ETL/ELT architecture, event-driven
 integrations, medallion data modelling, and embedding AI into data workflows.
 
-📍 Waterford, Ireland · Stamp 1G (no sponsorship needed)
+📍 Waterford, Ireland
 
 ---
 
